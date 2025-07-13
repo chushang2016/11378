@@ -1,4 +1,4 @@
-#    11378_驾校预约学习系统pf
+#    11378_驾校预约学习系统
  
 # 项目资料包含：
 * 前后端源代码+SQL脚本
@@ -7,7 +7,7 @@
 
 # 项目资料获取方式
 * 需要资料或者有任何问题的加QQ：2684634017
-* 项目源代码下载地址:http://blog.codercode.cn/#/home/goodDetail?goodId=11378
+* 项目源代码下载地址:https://bysj.bsitem.com/#/home/goodDetail?goodId=11378
 
 * 项目演示视频:  https://graduation-images.oss-cn-beijing.aliyuncs.com/videos/386%E5%A5%97-3-springboot%E5%BD%95%E5%83%8F/springboot/11378_%E9%A9%BE%E6%A0%A1%E9%A2%84%E7%BA%A6%E5%AD%A6%E4%B9%A0%E7%B3%BB%E7%BB%9F%E5%BD%95%E5%83%8Fpf.mp4
 
